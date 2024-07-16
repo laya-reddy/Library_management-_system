@@ -1,1 +1,2 @@
-# Library_management-_system
+# Library_management_system
+A Library Management System using C programming language
